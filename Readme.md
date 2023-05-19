@@ -5,9 +5,9 @@ Speaker: [Mohamed Lubani](https://www.linkedin.com/in/mohamed-lubani/)
 # Key NLP Techniques for Data Scientists
 Practical Examples Using Python and JupyterLab.
 
-## Tokenization: split text into sentences and words.
-## Stemming: stripping the affixes from words.
-## Lemmatization: converting words to their base form.
-## Word Embeddings: representations for words.
-## Stop Words Removal: remove words of little value like "the", "and", "a", "an".
-## Sentiment Analysis: opinion mining.
+1. Tokenization: split text into sentences and words.
+2. Stemming: stripping the affixes from words.
+3. Lemmatization: converting words to their base form.
+4. Word Embeddings: representations for words.
+5. Stop Words Removal: remove words of little value like "the", "and", "a", "an".
+6. Sentiment Analysis: opinion mining.
